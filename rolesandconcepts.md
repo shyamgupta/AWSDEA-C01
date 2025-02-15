@@ -1,7 +1,5 @@
 # Foundations: Roles and Concepts
----
 ## Data Engineer
----
 A data engineer transforms raw data into valuable insights, develops and maintains data architectures, Extract-Transform-Load pipelines that data analysts, data scientists, and other data consumers can use to effectively access and analyze data.
 Below are the key functions of a data engineer:
 1. **Build and Manage Data Infrastructure and Platforms**: Includes setting up databases, data lakes, and data warehouses on AWS services like S3, AWS Glue, Amazon Redshift, etc. 
@@ -12,5 +10,4 @@ Below are the key functions of a data engineer:
 6. **Ensure data quality, security, and compliance**: Create access controls, establish authorization policies, and build monitoring processes. Use Amazon DataZone or AWS Lake Formation to manage and govern access to data using fine-grained controls. These controls help ensure access with the right level of privileges and context. 
 
 ## Data Discovery
----
 
